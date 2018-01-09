@@ -2,6 +2,8 @@
 
 TimelineView is a Swift UIView subclass that allows you to display arbitrary data between two points or times and provides a built in content view to hold your additional subviews. The points dynamically resize as the bounds change which makes animations like collapsing easy to implement. 
 
+![TimelineView Example](https://github.com/JMErickson17/TimelineView/blob/master/Screenshots/Basic%20Example.png)
+
 ## Installation
 Download the TimelineView repo and copy TimelineView.swift into your project.
 
