@@ -6,6 +6,7 @@ TimelineView is a Swift UIView subclass that allows you to display arbitrary dat
     <img src="./Screenshots/BasicExample.png" width="200">
     <img src="./Screenshots/NestedTimelineExample.png" width="200">
 </p>
+
 ## Installation
 Download the TimelineView repo and copy TimelineView.swift into your project.
 
